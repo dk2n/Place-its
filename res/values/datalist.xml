@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="googlePlaces" >
+		<item>atm</item>
+		<item>bank</item>
+		<item>bar</item>
+		<item>book_store</item>
+		<item>bus_station</item>
+		<item>cafe</item>
+		<item>casino</item>
+		<item>church</item>
+		<item>doctor</item>
+		<item>gas_station</item>
+		<item>food</item>
+		<item>gym</item>
+		<item>library</item>
+		<item>movie_theater</item>
+		<item>park</item>
+    </string-array>
+</resources>

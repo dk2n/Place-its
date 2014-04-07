@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/bt_addRemLoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add New Location Reminder" />
+ 	
+ 	<Button
+        android:id="@+id/bt_addRemCat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add New Category Reminder" />
+    
+    <Button
+        android:id="@+id/bt_showReminders"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Reminders" />
+
+    <Button
+        android:id="@+id/bt_finish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Finish" />
+
+</LinearLayout>
